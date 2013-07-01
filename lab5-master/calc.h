@@ -7,6 +7,6 @@ static ssize_t write_routine(struct file *filp, const char *buff, size_t len, lo
 
 #define MODULE_PREFIX "[CALC CDEV] "
 
-MODULE_AUTHOR("Afonova Dmitrach Pozdniakov Pavlovich");
+MODULE_AUTHOR("Samsonov");
 MODULE_DESCRIPTION("Calculator Driver");
 MODULE_LICENSE("GPL");
