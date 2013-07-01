@@ -1,0 +1,9 @@
+#!/bin/sh
+
+//input operand and operation
+echo 4 > /proc/calc_first
+echo 2 > /proc/calc_second
+echo + > /proc/calc_operator
+
+//cat result
+cat /proc/calc_result

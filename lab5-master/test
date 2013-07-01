@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo 1 > /dev/calc_first
+echo 2 > /dev/calc_second
+echo + > /dev/calc_action
+
+cat /dev/calc_result
