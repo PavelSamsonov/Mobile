@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
+//fileInfo
 struct file_info
 {
 	char * content;
