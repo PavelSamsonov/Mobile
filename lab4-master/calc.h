@@ -10,7 +10,7 @@
 /* Module proc file name. */
 #define CALC_PROC "calc"
 
-/* Module proc files names. */
+/* Module proc file names. */
 #define PROCFS_RESULT  "calc_result"
 #define PROCFS_FIRST   "calc_first"
 #define PROCFS_SECOND  "calc_second"
