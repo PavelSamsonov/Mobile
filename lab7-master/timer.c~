@@ -23,7 +23,7 @@ atomic_t tact = ATOMIC_INIT(DEFAULT_TICK);
 /* Timer structure */
 static TIMER_LIST sos_timer;
 
-/* Kobject structure */
+/* Kenrnel object strucure */
 static PKOBJECT kobj;
 
 /* Shows the current timer frequency in milliseconds. */
